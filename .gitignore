@@ -1,0 +1,14 @@
+# Reference case model (third-party, large)
+Commodore+64+case+V+2.1.zip
+ref_c64/
+
+# Blender backup files
+*.blend1
+*.blend2
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
